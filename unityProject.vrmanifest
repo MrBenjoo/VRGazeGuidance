@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrgazeguidance.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vive-et\\Documents\\Benjamin-Szilvezster\\VRGazeGuidance\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VRGazeGuidance [Testing]"
+        }
+      }
+    }
+  ]
+}
